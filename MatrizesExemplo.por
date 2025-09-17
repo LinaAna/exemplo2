@@ -1,5 +1,5 @@
 programa {
-  const inteiro COLUNAS = 5, LINHAS = 2
+  const inteiro COLUNAS = 5, LINHAS = 5
   funcao inicio() {
     inteiro numeros [LINHAS][COLUNAS]
     inteiro soma[LINHAS],media[LINHAS]
